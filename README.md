@@ -1,4 +1,4 @@
-# Simple exmaple for text plain db
+# Simple example for text plain db
 
 This is a simple example using the text plain db
 
