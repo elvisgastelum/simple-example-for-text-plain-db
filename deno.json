@@ -1,7 +1,7 @@
 {
   "imports": {
     "std/": "https://deno.land/std@0.188.0/",
-    "text-plain-db/": "https://raw.githubusercontent.com/elvisgastelum/text-plain-db/0.0.0-alpha-1/"
+    "text-plain-db/": "https://raw.githubusercontent.com/elvisgastelum/text-plain-db/0.0.0-alpha-4/"
   },
   "tasks": {
     "start": "deno run --allow-read --allow-write mod.ts"
