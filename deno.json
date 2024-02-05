@@ -4,6 +4,6 @@
     "text-plain-db/": "https://raw.githubusercontent.com/elvisgastelum/text-plain-db/0.0.0-alpha-1/"
   },
   "tasks": {
-    "start": "deno run --allow-read --allow-write main.ts"
+    "start": "deno run --allow-read --allow-write mod.ts"
   }
 }
